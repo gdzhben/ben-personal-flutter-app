@@ -2,6 +2,9 @@
 
 Ben Ning Flutter application.
 
+## Google Play Store
+https://play.google.com/store/apps/details?id=com.benzning.benzning_app
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
