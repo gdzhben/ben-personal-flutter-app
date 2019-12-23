@@ -1,5 +1,3 @@
-# ben-personal-flutter-app
-A personal flutter app. For both IOS and Android.
 # benzning_app
 
 Ben Ning Flutter application.
